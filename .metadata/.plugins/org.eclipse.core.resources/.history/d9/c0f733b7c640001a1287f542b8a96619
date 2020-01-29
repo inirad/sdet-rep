@@ -1,0 +1,14 @@
+package labs;
+
+public class BankAccountApp {
+    public static void main(String[] args) {
+    	
+    }
+}
+   class BankAccount{
+	  private String accountNumer;
+	   String routingNumber;
+	   String name;
+	   String SSN;
+	   double balance;
+   }

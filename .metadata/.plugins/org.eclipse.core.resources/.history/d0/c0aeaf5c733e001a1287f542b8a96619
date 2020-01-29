@@ -1,0 +1,10 @@
+package basics;
+
+public class numbersCalc {
+   public static voi main(String[] args) {
+	   printName();
+   }
+   static void printName() {
+        System.out.println("hello my name is darini");	   
+   }
+}

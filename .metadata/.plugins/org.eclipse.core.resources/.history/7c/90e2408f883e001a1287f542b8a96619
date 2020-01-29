@@ -1,0 +1,10 @@
+package basics;
+
+public class Cities {
+public static void main(String[] args) {
+	String[] citis = {'ny','sf','miami','dallas'};
+	
+}
+String[] states= new String[5];
+
+}
